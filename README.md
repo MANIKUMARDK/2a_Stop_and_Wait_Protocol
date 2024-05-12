@@ -1,4 +1,6 @@
 # 2a_Stop_and_Wait_Protocol
+## REG NO:212223230121
+## NAME:MANIKUMAR.DK
 ## AIM 
 To write a python program to perform stop and wait protocol
 ## ALGORITHM
